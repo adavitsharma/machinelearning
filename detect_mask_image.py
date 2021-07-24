@@ -1,4 +1,7 @@
 # USAGE
+
+This is test code.
+
 # python detect_mask_image.py --image examples/example_01.png
 
 # import the necessary packages
